@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 - 🧍🏽‍♂️ Hi, Kunal here.
-- 🔭 I’m currently exploring DSA/Web Dev/AI.
 - 🌱 My primary focus is on full stack web development.
-- 🔍 Eager to collaborate on projects at the intersection of web development and AI/ML, aiming to contribute innovative solutions to real-world challenges and drive technological advancement.
+- 🔍 Excited to work with others on web and AI/ML projects to tackle real-world problems.
+- 🗺️ I like to explore new things.
 - 💼 Have a look at my portfolio: https://kunalm.vercel.app/
 - 📫 How to reach me: kunalm8597@gmail.com
+  
 
 
 
